@@ -1,3 +1,5 @@
+Text file is modified.
+
 text file1
 
 test_git
